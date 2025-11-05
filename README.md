@@ -54,4 +54,10 @@ Even under noise, the model retained partial separability — highlighting poten
 ---
 
 ## 🧰 Requirements  
+Python 3.10+
+qiskit
+qiskit-machine-learning
+scikit-learn
+numpy
+matplotlib
 
